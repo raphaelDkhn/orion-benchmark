@@ -137,3 +137,4 @@ smart_contracts/
 
 **/*.onnx
 **/*.tar.gz
+cost_of_orion/depth_benchmark/Scarb.lock
